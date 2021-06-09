@@ -1,0 +1,9 @@
+.home{
+    background-color: rgba(0,0,0,0.6);
+    min-height: 100vh;
+    background-image:url("../../Assests/background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-blend-mode: overlay;
+}

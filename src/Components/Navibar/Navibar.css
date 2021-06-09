@@ -1,0 +1,35 @@
+.Navbar {
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+    justify-content: space-between;
+}
+.tittle{
+    flex-grow: 8;
+    text-align: center;
+}
+.tittle h1{
+    font-size: 2rem;
+    text-transform: uppercase;
+    color: white;
+}
+
+.tittle h1 span{
+    color: red;
+}
+.links{
+    text-align: center;
+    align-items: center;
+    align-content: center;
+}
+
+.link a {
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    margin: 15px;
+}
+.link a:hover{
+    color: red;
+    border: 1px solid red ;
+}
