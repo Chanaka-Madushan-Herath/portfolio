@@ -1,0 +1,26 @@
+.About{
+    min-height: 100vh;
+    position: relative;
+    top: 10vh;
+    display: flex;
+    flex-wrap: wrap-reverse;
+}
+.About> div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    text-align: center;
+}
+.image img{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    top: 30vh;
+    left: 20vw;
+}
+.description{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 30vh;
+    left: calc(20vw + 300px);
+}

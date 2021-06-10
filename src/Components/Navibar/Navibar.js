@@ -23,9 +23,9 @@ const Navibar =()=> {
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                     <Navbar.Collapse id="responsive-navbar-nav" className={"links"}>
                            <div className={"link"}><a href={"#home"}>Home</a> </div>
+                        <div className={"link"}><a href={"#about"}>About</a> </div>
                             <div className={"link"}><a href={"#services"}>Services</a> </div>
                         <div className={"link"}><a href={"#projects"}>Projects</a></div>
-                            <div className={"link"}><a href={"#about"}>About</a> </div>
                             <div className={"link"}><a href={"#contact"} >Contact</a></div>
                     </Navbar.Collapse>
                 </Navbar>

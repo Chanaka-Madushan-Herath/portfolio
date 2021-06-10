@@ -1,9 +1,40 @@
 .home{
     background-color: rgba(0,0,0,0.6);
     min-height: 100vh;
-    background-image:url("../../Assests/background.jpg");
+    height: 100%;
+    background-image:url("../../Assests/background1.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     background-blend-mode: overlay;
+}
+.titles{
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.t2{
+    margin-left: 7vw;
+    margin-top: 30vh;
+}
+.t3{
+    margin-left: 7vw;
+}
+.t2 h2{
+    font-size: 5vw;
+}
+.t3 h1{
+    font-size: 8vw;
+}
+.home Button{
+    border: 0.5vw solid;
+    height: 10vh;
+    min-height: 50px;
+    width: 20vw;
+    min-width: 130px;
+    margin-left: 10vw;
+    margin-top: 5vh;
+    font-weight: bold;
+    font-size:calc(10px + 1vw);
 }
