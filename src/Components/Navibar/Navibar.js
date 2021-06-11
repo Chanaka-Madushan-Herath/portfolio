@@ -14,19 +14,22 @@ const Navibar =()=> {
         }
     });
 
+
         return (
             <div>
                 <Navbar fixed={"top"} className={"navbar"} collapseOnSelect expand="lg" bg={bg} variant="dark">
                     <Navbar.Brand  className={"tittle"}>
                         <h1><span>C</span>hanaka <span >H</span>erath</h1>
                     </Navbar.Brand>
-                    <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+                    <Navbar.Toggle aria-controls="responsive-navbar-nav"   />
                     <Navbar.Collapse id="responsive-navbar-nav" className={"links"}>
-                           <div className={"link"}><a href={"#home"}>Home</a> </div>
-                        <div className={"link"}><a href={"#about"}>About</a> </div>
-                            <div className={"link"}><a href={"#services"}>Services</a> </div>
-                        <div className={"link"}><a href={"#projects"}>Projects</a></div>
-                            <div className={"link"}><a href={"#contact"} >Contact</a></div>
+                        <Nav className="mr-auto">
+                           <div className={"link"}><Nav.Link href={"#home"}>Home</Nav.Link> </div>
+                        <div className={"link"}><Nav.Link href={"#about"}>About</Nav.Link> </div>
+                            <div className={"link"}><Nav.Link href={"#services"}>Services</Nav.Link> </div>
+                        <div className={"link"}><Nav.Link href={"#projects"}>Projects</Nav.Link></div>
+                            <div className={"link"}><Nav.Link href={"#contact"} >Contact</Nav.Link></div>
+                        </Nav>
                     </Navbar.Collapse>
                 </Navbar>
             </div>

@@ -1,7 +1,9 @@
 .home{
     background-color: rgba(0,0,0,0.6);
     min-height: 100vh;
+    position: relative;
     height: 100%;
+    min-width: 100vw;
     background-image:url("../../Assests/background1.jpg");
     background-size: cover;
     background-position: center;
@@ -30,7 +32,7 @@
 .home Button{
     border: 0.5vw solid;
     height: 10vh;
-    min-height: 50px;
+    min-height: 60px;
     width: 20vw;
     min-width: 130px;
     margin-left: 10vw;

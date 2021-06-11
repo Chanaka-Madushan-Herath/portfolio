@@ -1,26 +1,35 @@
 .About{
-    min-height: 100vh;
+    min-height:100vh;
     position: relative;
-    top: 10vh;
     display: flex;
     flex-wrap: wrap-reverse;
+
 }
 .About> div {
-    background-color: #f1f1f1;
+    align-self: flex-start;
+    margin: 10vh;
+
+}
+.Image{
+    border: 5px solid red;
+    height: 300px;
+    width: 290px;
+}
+.Image img{
     margin: 10px;
+
+}
+.description h1{
+    font-size: 3rem;
     text-align: center;
 }
-.image img{
-    width: 300px;
-    height: 300px;
-    position: relative;
-    top: 30vh;
-    left: 20vw;
+.description h2{
+    text-align: center;
 }
 .description{
-    width: 300px;
-    height: 300px;
-    position: absolute;
-    top: 30vh;
-    left: calc(20vw + 300px);
+
+    font-family: 'Montserrat', sans-serif;
+    width: 50vw;
+    min-width: 300px;
+
 }

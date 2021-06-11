@@ -1,4 +1,21 @@
 .contact{
-    background-color: greenyellow;
     min-height: 100vh;
+    position: relative;
+    top: 10vh;
+    margin: 10vh;
+    display: flex;
+    flex-wrap: wrap-reverse;
+}
+.contact> div {
+    background-color: #f1f1f1;
+    margin: 10vw;
+    text-align: center;
+}
+.image {
+    width: 300px;
+
+}
+.description{
+    width: 300px;
+
 }

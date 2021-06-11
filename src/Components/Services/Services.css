@@ -1,4 +1,19 @@
 .Services{
     min-height: 100vh;
-    background-color: #d63384;
+    position: relative;
+    top: 10vh;
+    margin: 10vh;
+    display: flex;
+    flex-wrap: wrap-reverse;
+}
+.Services> div {
+    background-color: #f1f1f1;
+    margin: 10vw;
+    text-align: center;
+}
+.image {
+
+}
+.description{
+
 }

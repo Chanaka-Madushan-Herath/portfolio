@@ -1,9 +1,4 @@
-.Navbar {
-    display: flex;
-    flex-direction: row;
-    align-content: space-between;
-    justify-content: space-between;
-}
+
 .tittle{
     flex-grow: 8;
     text-align: center;
@@ -18,19 +13,13 @@
     color: red;
 }
 .links{
-    text-align: center;
-    align-items: center;
-    align-content: center;
+    text-align: right;
 }
 
-.link a {
-    color: white;
-    text-decoration: none;
+.link {
+    font-size: 1rem;
+    font-weight: bold;
     padding: 5px;
-    margin: 15px;
-}
-.link a:hover{
-    color: red;
-    border: 1px solid red ;
-    transition: 0.8s;
+    margin: 5px;
+    margin-right: 10px;
 }
