@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/My_web_site/static/css/main.eb923da7.chunk.css",
+    "main.css": "/My_web_site/static/css/main.b6c705c1.chunk.css",
     "main.js": "/My_web_site/static/js/main.9fbaebf8.chunk.js",
     "main.js.map": "/My_web_site/static/js/main.9fbaebf8.chunk.js.map",
     "runtime-main.js": "/My_web_site/static/js/runtime-main.6821c37a.js",
@@ -12,7 +12,7 @@
     "static/js/3.df595e80.chunk.js.map": "/My_web_site/static/js/3.df595e80.chunk.js.map",
     "index.html": "/My_web_site/index.html",
     "static/css/2.61b4cb56.chunk.css.map": "/My_web_site/static/css/2.61b4cb56.chunk.css.map",
-    "static/css/main.eb923da7.chunk.css.map": "/My_web_site/static/css/main.eb923da7.chunk.css.map",
+    "static/css/main.b6c705c1.chunk.css.map": "/My_web_site/static/css/main.b6c705c1.chunk.css.map",
     "static/js/2.3acaa3e0.chunk.js.LICENSE.txt": "/My_web_site/static/js/2.3acaa3e0.chunk.js.LICENSE.txt",
     "static/media/Home.css": "/My_web_site/static/media/background1.d054dd84.jpg",
     "static/media/my.a6cf61fd.jpg": "/My_web_site/static/media/my.a6cf61fd.jpg"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.6821c37a.js",
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.3acaa3e0.chunk.js",
-    "static/css/main.eb923da7.chunk.css",
+    "static/css/main.b6c705c1.chunk.css",
     "static/js/main.9fbaebf8.chunk.js"
   ]
 }
