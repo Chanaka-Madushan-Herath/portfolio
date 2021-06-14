@@ -24,24 +24,6 @@ class Projects extends Component {
                         <div className="text">Home</div>
                     </div>
                 </div>
-                <div className="container">
-                    <img src={picture} alt="Avatar" className="image" />
-                    <div className="middle">
-                        <div className="text">Home</div>
-                    </div>
-                </div>
-                <div className="container">
-                    <img src={picture} alt="Avatar" className="image" />
-                    <div className="middle">
-                        <div className="text">Home</div>
-                    </div>
-                </div>
-                <div className="container">
-                    <img src={picture} alt="Avatar" className="image" />
-                    <div className="middle">
-                        <div className="text">Home</div>
-                    </div>
-                </div>
             </div>
         );
     }

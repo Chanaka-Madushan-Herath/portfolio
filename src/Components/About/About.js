@@ -8,7 +8,7 @@ class About extends Component {
             <div className={"About"}>
                 <div className={"Image"}><img src={picture} height={"300px"} width={"300px"}/></div>
                 <div className={"description"}>
-                    <h1><span style={{color:"red"}}>ABOUT</span> ME</h1><br/>
+                    <h1><span style={{color:"red"}}>A</span>BOUT <span style={{color:"red"}}>M</span>E</h1><br/>
                     <h2>Software Engineering Undergraduate</h2><br/>
                     <p>
                         I'm a third-year Software Engineering undergraduate at the University of Kelaniya.

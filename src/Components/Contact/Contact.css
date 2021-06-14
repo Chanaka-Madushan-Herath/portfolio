@@ -1,21 +1,50 @@
-.contact{
-    min-height: 100vh;
+.contacts{
+    min-height: 80vh;
     position: relative;
-    top: 10vh;
+    top: 15vh;
     margin: 10vh;
-    display: flex;
-    flex-wrap: wrap-reverse;
 }
-.contact> div {
-    background-color: #f1f1f1;
-    margin: 10vw;
+.contacts{
     text-align: center;
 }
-.image {
-    width: 300px;
-
+.contacts div h1{
+    font-size: 3rem;
+    text-align: center;
 }
-.description{
-    width: 300px;
-
+.contact{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.info {
+    background-color: whitesmoke;
+    top: 10vh;
+    margin: 10px;
+    text-align: center;
+    min-width: 400px;
+    min-height: 200px;
+}
+.info{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 10px;
+    text-align: left;
+    align-items: center;
+    border: 2px solid deepskyblue;
+    border-radius: 5px;
+}
+.info div  img{
+    margin: 10px;
+    height: 100px;
+    width: 100px;
+}
+.find{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.find>img{
+    margin: 10px;
+    text-align: center;
 }

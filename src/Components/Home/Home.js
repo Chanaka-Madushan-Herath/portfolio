@@ -8,7 +8,7 @@ const Home =()=> {
         return (
             <div className={"home"}>
                 <div className={"titles"}>
-                    <div className={"t2"}><h2>Hey, I'm</h2></div>
+                    <div className={"t2"} ><h2>Hey, I'm</h2></div>
                     <div className={"t3"}><h1>Chanaka</h1></div>
                     <a href={URL}><Button variant="outline-primary" >Download My CV</Button>{' '}</a>
                 </div>
