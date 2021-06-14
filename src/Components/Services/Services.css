@@ -1,19 +1,39 @@
 .Services{
-    min-height: 100vh;
+    min-height: 80vh;
     position: relative;
-    top: 10vh;
+    top: 15vh;
     margin: 10vh;
-    display: flex;
-    flex-wrap: wrap-reverse;
-}
-.Services> div {
-    background-color: #f1f1f1;
-    margin: 10vw;
     text-align: center;
+    font-family: 'Montserrat', sans-serif;
 }
-.image {
-
+.Services h1{
+    font-size: 3rem;
 }
-.description{
-
+.Service{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.Service> div {
+    background-color: #5c636a;
+    top: 10vh;
+    margin: 20px;
+    min-width: 400px;
+    min-height: 300px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 10px;
+    align-items: center;
+    border: 2px solid deepskyblue;
+    border-radius: 5px;
+}
+.Service> div h2{
+    margin: 5px;
+    color: white;
+    font-weight: bold;
+}
+.Service> div p{
+    width:300px;
+    color: white;
 }

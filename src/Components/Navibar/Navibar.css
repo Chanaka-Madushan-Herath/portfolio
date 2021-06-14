@@ -2,6 +2,7 @@
 .tittle{
     flex-grow: 8;
     text-align: center;
+    font-family: 'Montserrat', sans-serif;
 }
 .tittle h1{
     font-size: 2rem;

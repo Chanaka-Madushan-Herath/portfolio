@@ -4,7 +4,7 @@ import {Button} from "react-bootstrap";
 
 
 const Home =()=> {
-    const URL = "https://raw.githubusercontent.com/Chanaka-Madushan-Herath/My_web_site/545fd44493a1e7f8429dbc9807a7b0a9f3bad330/src/Assests/CHANAKA%20MADUSHAN-%20CV.pdf";
+    const URL = "https://github.com/Chanaka-Madushan-Herath/My_web_site/raw/master/src/Assests/Chanaka%20Herath.pdf";
         return (
             <div className={"home"}>
                 <div className={"titles"}>

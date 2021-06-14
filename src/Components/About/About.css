@@ -1,8 +1,9 @@
 .About{
-    min-height:100vh;
+    min-height:80vh;
     position: relative;
     display: flex;
     flex-wrap: wrap-reverse;
+    font-family: 'Montserrat', sans-serif;
 
 }
 .About> div {

@@ -3,9 +3,8 @@
     position: relative;
     top: 15vh;
     margin: 10vh;
-}
-.contacts{
     text-align: center;
+    font-family: 'Montserrat', sans-serif;
 }
 .contacts div h1{
     font-size: 3rem;
@@ -20,11 +19,8 @@
     background-color: whitesmoke;
     top: 10vh;
     margin: 10px;
-    text-align: center;
     min-width: 400px;
     min-height: 200px;
-}
-.info{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
