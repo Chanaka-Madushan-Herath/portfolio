@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/My_web_site/static/css/main.d264ac88.chunk.css",
-    "main.js": "/My_web_site/static/js/main.a170d234.chunk.js",
-    "main.js.map": "/My_web_site/static/js/main.a170d234.chunk.js.map",
+    "main.css": "/My_web_site/static/css/main.9d117c50.chunk.css",
+    "main.js": "/My_web_site/static/js/main.7a753383.chunk.js",
+    "main.js.map": "/My_web_site/static/js/main.7a753383.chunk.js.map",
     "runtime-main.js": "/My_web_site/static/js/runtime-main.be713f5a.js",
     "runtime-main.js.map": "/My_web_site/static/js/runtime-main.be713f5a.js.map",
     "static/css/2.61b4cb56.chunk.css": "/My_web_site/static/css/2.61b4cb56.chunk.css",
@@ -12,15 +12,17 @@
     "static/js/3.9787ba2d.chunk.js.map": "/My_web_site/static/js/3.9787ba2d.chunk.js.map",
     "index.html": "/My_web_site/index.html",
     "static/css/2.61b4cb56.chunk.css.map": "/My_web_site/static/css/2.61b4cb56.chunk.css.map",
-    "static/css/main.d264ac88.chunk.css.map": "/My_web_site/static/css/main.d264ac88.chunk.css.map",
+    "static/css/main.9d117c50.chunk.css.map": "/My_web_site/static/css/main.9d117c50.chunk.css.map",
     "static/js/2.b705a902.chunk.js.LICENSE.txt": "/My_web_site/static/js/2.b705a902.chunk.js.LICENSE.txt",
     "static/media/Untitled-1.edd4b5de.jpg": "/My_web_site/static/media/Untitled-1.edd4b5de.jpg",
     "static/media/Untitled-2.a6279c9f.jpg": "/My_web_site/static/media/Untitled-2.a6279c9f.jpg",
     "static/media/Untitled-3.9b183101.jpg": "/My_web_site/static/media/Untitled-3.9b183101.jpg",
     "static/media/Home.css": "/My_web_site/static/media/background1.d054dd84.jpg",
+    "static/media/best-templates.6bf8d0bf.png": "/My_web_site/static/media/best-templates.6bf8d0bf.png",
     "static/media/github.5eab40a0.png": "/My_web_site/static/media/github.5eab40a0.png",
     "static/media/insta.fa104452.png": "/My_web_site/static/media/insta.fa104452.png",
     "static/media/medium-logo.e52b8ff9.png": "/My_web_site/static/media/medium-logo.e52b8ff9.png",
+    "static/media/mobile-app-development-1.76972d97.png": "/My_web_site/static/media/mobile-app-development-1.76972d97.png",
     "static/media/my.a6cf61fd.jpg": "/My_web_site/static/media/my.a6cf61fd.jpg",
     "static/media/up.bb7cda29.png": "/My_web_site/static/media/up.bb7cda29.png"
   },
@@ -28,7 +30,7 @@
     "static/js/runtime-main.be713f5a.js",
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.b705a902.chunk.js",
-    "static/css/main.d264ac88.chunk.css",
-    "static/js/main.a170d234.chunk.js"
+    "static/css/main.9d117c50.chunk.css",
+    "static/js/main.7a753383.chunk.js"
   ]
 }
