@@ -13,7 +13,7 @@ class Services extends Component {
                         <h2>WEB APP DESIGN</h2>
                         <img src={web} height={"200px"} width={"200px"}/>
                         <p>I am more capable of HTML, bootstrap & CSS.
-                            I am also capable of developing with react for front-end. For back-end I am more capable of JavaScript and PHP.</p>
+                            I am also capable of developing with react for front-end. For back-end I am more capable of Java and JavaScript.</p>
                     </div>
                     <div>
                         <h2>MOBILE APP DESIGN</h2>
