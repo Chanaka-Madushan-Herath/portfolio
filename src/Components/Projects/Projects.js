@@ -11,7 +11,7 @@ class Projects extends Component {
                 <h1><span style={{color:"red"}}>R</span>ECENT <span style={{color:"red"}}>P</span>ROJECTS</h1>
             <div className={"Projects"}>
                 <div className="container">
-                    <img src={Edoc} alt="Avatar" className="image" />
+                    <img src={Edoc} alt="01" className="image" />
                     <div className="middle">
                         <h1 style={{color:"red", fontWeight:"bold"}}>E-DOC</h1><br/><br/>
                         <p style={{ fontWeight:"bold"}}>This web app is designed and implemented to help you channel
@@ -19,7 +19,7 @@ class Projects extends Component {
                     </div>
                 </div>
                     <div className="container">
-                        <img src={monitor} alt="Avatar" className="image" />
+                        <img src={monitor} alt="02" className="image" />
                         <div className="middle">
                             <h1 style={{color:"red", fontWeight:"bold"}}>Cloud Sensor Monitor</h1>
                             <p style={{ fontWeight:"bold"}}>This is a cloud-based sensor monitoring and alert management
